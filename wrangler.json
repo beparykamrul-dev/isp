@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "isp",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "4d231670-f9ed-4467-8362-db84217b8f85",
+			"database_name": "<YOUR-DATABASE-NAME>"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
